@@ -7,7 +7,7 @@ Cisco RTP MultiCast Steamer is a Windows Application to stream RTP MultiCast aud
 1. Download the release or build the application. Ensure bundled FFMPEG is included in the application directory.
 2. Add phone IPv4s to the MultiCast IP Box. These can also be imported from a TXT or CSV file, assuming one IP per line.
 3. Complete the media setup area. Recommended values are prefilled.
-4. Fill in the authorization username or password. This is the credential verified by the ``<authorizationURL>`` in the phone's configuration XML.
+4. Fill in the authorization username or password. This is the credential verified by the ``<authenticationURL>`` in the phone's configuration XML.
 5. Press Start. The listed Cisco Phones will automatically begin playing the audio file selected. To STOP, press the Stop button.
 
 ## Advanced:
