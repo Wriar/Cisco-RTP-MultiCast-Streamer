@@ -18,6 +18,7 @@ Cisco RTP MultiCast Steamer is a Windows Application to stream RTP MultiCast aud
 * As of now, only the ``g711`` mu-law codec is supported. You may convert an audio file to ``g711`` by visiting https://g711.org.
 * To ensure a steady multicast stream, the streaming appliance must have high bandwidth access to the network, preferrably a wired connection.
 * This software is intended for Windows machines with .NET framework.
+* This software was tested to work with a Cisco CP-8851NR device running firmware ``sip88xx.14-2-1-201-40``
 
 ## Acknowledgements:
 * This software was built to the specifications of *Cisco Unified IP Phone Services Application Development Notes R7*.
